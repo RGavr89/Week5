@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week5AndOrLogicalOperators", "Week5AndOrLogicalOperators\Week5AndOrLogicalOperators.csproj", "{507772A8-23F1-4B87-8427-514C5D6CAC66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndOperatorWithRangers", "And OperatorWithRangers\AndOperatorWithRangers.csproj", "{7FAD6CCB-CFD8-4EF7-B64A-0DE61F793DAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{507772A8-23F1-4B87-8427-514C5D6CAC66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{507772A8-23F1-4B87-8427-514C5D6CAC66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{507772A8-23F1-4B87-8427-514C5D6CAC66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{507772A8-23F1-4B87-8427-514C5D6CAC66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FAD6CCB-CFD8-4EF7-B64A-0DE61F793DAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FAD6CCB-CFD8-4EF7-B64A-0DE61F793DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FAD6CCB-CFD8-4EF7-B64A-0DE61F793DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FAD6CCB-CFD8-4EF7-B64A-0DE61F793DAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D4908DC-F616-4209-B4B2-5E291BDC6E4B}
+	EndGlobalSection
+EndGlobal

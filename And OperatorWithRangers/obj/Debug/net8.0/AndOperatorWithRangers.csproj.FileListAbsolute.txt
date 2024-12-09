@@ -1,0 +1,14 @@
+C:\Users\Roman\source\repos\Week5AndOrLogicalOperators\And OperatorWithRangers\bin\Debug\net8.0\AndOperatorWithRangers.exe
+C:\Users\Roman\source\repos\Week5AndOrLogicalOperators\And OperatorWithRangers\bin\Debug\net8.0\AndOperatorWithRangers.deps.json
+C:\Users\Roman\source\repos\Week5AndOrLogicalOperators\And OperatorWithRangers\bin\Debug\net8.0\AndOperatorWithRangers.runtimeconfig.json
+C:\Users\Roman\source\repos\Week5AndOrLogicalOperators\And OperatorWithRangers\bin\Debug\net8.0\AndOperatorWithRangers.dll
+C:\Users\Roman\source\repos\Week5AndOrLogicalOperators\And OperatorWithRangers\bin\Debug\net8.0\AndOperatorWithRangers.pdb
+C:\Users\Roman\source\repos\Week5AndOrLogicalOperators\And OperatorWithRangers\obj\Debug\net8.0\AndOperatorWithRangers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman\source\repos\Week5AndOrLogicalOperators\And OperatorWithRangers\obj\Debug\net8.0\AndOperatorWithRangers.AssemblyInfoInputs.cache
+C:\Users\Roman\source\repos\Week5AndOrLogicalOperators\And OperatorWithRangers\obj\Debug\net8.0\AndOperatorWithRangers.AssemblyInfo.cs
+C:\Users\Roman\source\repos\Week5AndOrLogicalOperators\And OperatorWithRangers\obj\Debug\net8.0\AndOperatorWithRangers.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\Week5AndOrLogicalOperators\And OperatorWithRangers\obj\Debug\net8.0\AndOperatorWithRangers.dll
+C:\Users\Roman\source\repos\Week5AndOrLogicalOperators\And OperatorWithRangers\obj\Debug\net8.0\refint\AndOperatorWithRangers.dll
+C:\Users\Roman\source\repos\Week5AndOrLogicalOperators\And OperatorWithRangers\obj\Debug\net8.0\AndOperatorWithRangers.pdb
+C:\Users\Roman\source\repos\Week5AndOrLogicalOperators\And OperatorWithRangers\obj\Debug\net8.0\AndOperatorWithRangers.genruntimeconfig.cache
+C:\Users\Roman\source\repos\Week5AndOrLogicalOperators\And OperatorWithRangers\obj\Debug\net8.0\ref\AndOperatorWithRangers.dll
